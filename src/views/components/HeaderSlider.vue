@@ -42,6 +42,42 @@ export default {
         {
           id: 5,
           image: "assets/img/slider/slider-05.jpg"
+        },
+        {
+          id: 6,
+          image: "assets/img/slider/slider-06.jpg"
+        },
+        {
+          id: 7,
+          image: "assets/img/slider/slider-07.jpg"
+        },
+        {
+          id: 8,
+          image: "assets/img/slider/slider-08.jpg"
+        },
+        {
+          id: 9,
+          image: "assets/img/slider/slider-09.jpg"
+        },
+        {
+          id: 10,
+          image: "assets/img/slider/slider-10.jpg"
+        },
+        {
+          id: 11,
+          image: "assets/img/slider/slider-11.jpg"
+        },
+        {
+          id: 12,
+          image: "assets/img/slider/slider-12.jpg"
+        },
+        {
+          id: 13,
+          image: "assets/img/slider/slider-13.jpg"
+        },
+        {
+          id: 14,
+          image: "assets/img/slider/slider-14.jpg"
         }
       ]
     };

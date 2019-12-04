@@ -2,6 +2,7 @@
 @import "./custom/functions";
 @import "./custom/variables";
 @import "~bootstrap/scss/mixins";
+@import "./custom/mixins";
 
 // Bootstrap
 @import "~bootstrap/scss/root";
@@ -43,10 +44,11 @@
 @import "./custom/utilities";
 @import "./custom/buttons";
 @import "./custom/navbar";
-@import "./custom/donate";
+@import "./custom/section";
 @import "./custom/about";
-@import "./custom/whatwedo";
-@import "./custom/activities";
+@import "./custom/card";
+@import "./custom/icons";
 @import "./custom/officers";
 @import "./custom/contact";
 @import "./custom/footer";
+@import "./custom/banner_spacer";
